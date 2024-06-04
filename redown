@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+figlet "E"
+tree "/mnt/e/#redownload" | grep $1
+figlet "F"
+tree "/mnt/f/#redownload" | grep $1
+figlet "G"
+tree "/mnt/g/#redownload" | grep $1
+figlet "H"
+tree "/mnt/h/#redownload" | grep $1
+figlet "I"
+tree "/mnt/i/#redownload" | grep $1
+figlet "J"
+tree "/mnt/j/#redownload" | grep $1
