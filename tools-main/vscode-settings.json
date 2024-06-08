@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 13.5,
+    "editor.letterSpacing": 0.1,
+    "editor.lineHeight": 1.3,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "none",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line",
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true
+}
